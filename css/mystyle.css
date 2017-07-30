@@ -1,12 +1,3 @@
- @font-face {
- 	font-family: Vremya;
- 	src: url(../fonts/vremf___.ttf);
- }
-
- body {
-    font-family: Vremya;
-}
-
  .em {
     height: 1em;
     width: 1em;
